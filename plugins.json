@@ -15,6 +15,11 @@
     "githubUrl": "https://github.com/silvermine/serverless-plugin-external-sns-events"
   },
   {
+    "name": "serverless-external-s3-event",
+    "description": "Overcomes the CloudFormation limitation on attaching an event to an uncontrolled bucket, for Serverless.com 1.0+.",
+    "githubUrl": "https://github.com/matt-filion/serverless-external-s3-event"
+  },
+  {
     "name": "serverless-plugin-write-env-vars",
     "description": "Write environment variables out to a file that is compatible with dotenv",
     "githubUrl": "https://github.com/silvermine/serverless-plugin-write-env-vars"
